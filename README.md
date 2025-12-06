@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Daniel!
 
+💻 Student Developer<br>
+🖥 Windows & Linux (Arch + Hyprland)
+
+🚀 My Stack
+<br>
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![C#](https://img.shields.io/badge/C%23-000?logo=.net)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+
+___
+
+## 🧩 Projects
+<details>
+  <summary>📄 <strong><a href="https://github.com/dan21321/Word_Generator">Word Generator</a></strong> — Word documents from Excel templates</summary>
+
+  <br>
+  ℹ️ Word Generator allows you to generate a large number of 📄 Word documents by taking data from an Excel spreadsheet and inserting it into a Word template.
+
+  🛠️ **Tech:** `C#`, `WPF`, `ClosedXML`, `OpenXML`
+</details>
+
+👨‍💻 The rest is in development 👨‍💻
 <!--
-**dan21321/dan21321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=dan21321&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan21321&layout=compact&theme=dark)
 -->
+___
+## 📫 Contact
+✉️ Email: dan.sinckovckin2014@yandex.ru  
