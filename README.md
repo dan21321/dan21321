@@ -27,7 +27,7 @@ ___
   <summary>📄 <strong><a href="https://github.com/dan21321/AutoUpdater">AutoUpdater</a></strong> — AutoUpdate for any application .NET Framework</summary>
 
   <br>
-  ℹ️ AutoUpdater allows you to automatically check for new releases on GitHub, download the latest version, and replace application files safely. It consists of a **library** for checking updates and a **console application** for performing the update.
+  ℹ️ AutoUpdater allows you to automatically check for new releases on GitHub, download the latest version, and replace application files safely. It consists of a <b>library</b> for checking updates and a <b>console application</b> for performing the update.
   
   🛠️ **Tech:** `C#`, `Library`, `Console`
 </details>
