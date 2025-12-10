@@ -22,13 +22,16 @@ ___
 
   🛠️ **Tech:** `C#`, `WPF`, `ClosedXML`, `OpenXML`
 </details>
+
 <details>
   <summary>📄 <strong><a href="https://github.com/dan21321/AutoUpdater">AutoUpdater</a></strong> — AutoUpdate for any application .NET Framework</summary>
 
   <br>
   ℹ️ AutoUpdater allows you to automatically check for new releases on GitHub, download the latest version, and replace application files safely. It consists of a **library** for checking updates and a **console application** for performing the update.
+  
   🛠️ **Tech:** `C#`, `Library`, `Console`
 </details>
+
 👨‍💻 The rest is in development 👨‍💻
 <!--
 ## 📊 GitHub Stats
